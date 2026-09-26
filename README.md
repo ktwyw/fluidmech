@@ -293,7 +293,7 @@ Ideas and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 **Yanwei Wang** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8488--9833-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8488-9833)
 
 This is a personal project, developed to support teaching a second-year fluid mechanics course
-(CHME 202). Interests: multiscale modelling, complex fluids and rheology, and transport phenomena.
+(CHME 202) at Nazarbayev University. Interests: multiscale modelling, complex fluids and rheology, and transport phenomena.
 
 [GitHub](https://github.com/ktwyw) ·
 [ORCID](https://orcid.org/0000-0002-8488-9833) ·
