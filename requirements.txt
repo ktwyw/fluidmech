@@ -1,0 +1,6 @@
+# Used by Streamlit Community Cloud to run showcase/apps/fluidmech_studio.py.
+# Local users: prefer `pip install -e ".[apps]"`.
+-e .
+streamlit
+numpy
+matplotlib

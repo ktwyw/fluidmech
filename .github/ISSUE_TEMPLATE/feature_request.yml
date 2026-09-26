@@ -1,0 +1,15 @@
+name: Feature request
+description: Suggest a new calculation, correlation or example
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to calculate?
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Equations or references
+      description: Textbook, paper or standard describing the method, and any worked example to test against.

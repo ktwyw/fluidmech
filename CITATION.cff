@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "fluidmech: engineering fluid mechanics in Python for teaching and practice"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "Yanwei"
+    orcid: "https://orcid.org/0000-0002-8488-9833"
+    email: "wangyanwei@gmail.com"
+    website: "https://github.com/ktwyw"
+version: 0.5.0
+date-released: 2026-09-26
+license: MIT
+repository-code: "https://github.com/ktwyw/fluidmech"
+keywords:
+  - fluid mechanics
+  - hydraulics
+  - pipe networks
+  - open-channel flow
+  - engineering education
+  - computational fluid dynamics
+  - chemical engineering

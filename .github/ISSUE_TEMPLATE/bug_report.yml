@@ -1,0 +1,24 @@
+name: Bug report
+description: A calculation gives a wrong result or an error
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Include the code you ran and the full error message or the result you got.
+      render: python
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+      description: If a number is wrong, please give the expected value and its source (textbook, standard, software).
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: fluidmech and Python versions
+      placeholder: "fluidmech 0.3.0, Python 3.12"
